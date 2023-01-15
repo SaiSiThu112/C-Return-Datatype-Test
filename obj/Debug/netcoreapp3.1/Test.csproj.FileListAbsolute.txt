@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Acer\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Acer\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
